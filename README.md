@@ -1,2 +1,2 @@
 # Experiments
-To apply AI into solutions
+To apply AI solutions
