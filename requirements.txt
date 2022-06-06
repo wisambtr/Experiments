@@ -164,7 +164,7 @@ wincertstore==0.2
 
 #Additional codes to enable real time
 
-c.LabApp.collaborative = True
+c.LabApp.collaborative == True
 
 jupyterlab==v3.2.2
 jupyterlab-language-pack-pl-pl>=3.1.post5
