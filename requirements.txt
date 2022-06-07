@@ -74,7 +74,7 @@ lesscpy==0.15.0
 mistune==0.8.4
 #mkl-fft==1.3.1
 #mkl-random @ file:///C:/ci/mkl_random_1626186184278/work
-mkl-service==2.4.0
+#mkl-service==2.4.0
 #mpl-scatter-density @ file:///tmp/build/80754af9/mpl-scatter-density_1596880069366/work
 munkres==1.1.4
 #nbclassic @ file:///opt/conda/conda-bld/nbclassic_1644943264176/work
